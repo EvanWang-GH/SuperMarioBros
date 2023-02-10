@@ -1,5 +1,6 @@
 # SuperMarioBros
 使用Cocos Creator 2.x 引擎 + TypeScript 制作的超级马里奥小游戏  
+[在线试玩（可能需要翻墙）](https://evanwang-gh.github.io/SuperMarioBros/)  
 模仿了原版游戏的第一个关卡
 使用普通碰撞器组件实现了拾取道具、死亡检测、过关检测等功能  
 使用刚体、物理碰撞器等组件实现了角色的移动、跳跃等动作，并模拟出了惯性、加速度等物理效果  
